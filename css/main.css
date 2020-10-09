@@ -1,0 +1,6 @@
+.nav-item,
+.copywrite {
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar-collapse {  justify-content: flex-end;}
